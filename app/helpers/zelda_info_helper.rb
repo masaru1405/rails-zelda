@@ -1,0 +1,2 @@
+module ZeldaInfoHelper
+end
